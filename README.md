@@ -50,7 +50,7 @@ Conducted full security audit identifying critical vulnerabilities across admini
 ### 6. [Incident Handler's Journal](./incident-handler's-journal/)
 **Skills:** Incident Documentation | Pattern Recognition | Continuous Monitoring | Lessons Learned
 
-Comprehensive incident documentation journal spanning July 2022 - November 2025, tracking phishing attacks, data breaches, access control failures, and security audits. Demonstrates systematic incident response documentation, identification of recurring vulnerabilities, and evolution from reactive response to proactive security assessment.
+Comprehensive incident documentation journal spanning July 2022 - November 2025, tracking phishing attacks, data breaches, access control failures, and security audits. Demonstrates systematic incident response documentation, identification of recurring vulnerabilities, and evolution from reactive response to proactive security assessment. 
 
 **Key Concepts:** 5 W's Framework, Incident Response Lifecycle, Root Cause Analysis, Continuous Improvement
 ---
