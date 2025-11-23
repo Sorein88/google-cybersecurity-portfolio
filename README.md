@@ -39,8 +39,7 @@ Investigated medium-severity phishing alert, identified multiple indicators of c
 Led complete incident response for data breach affecting 50,000 customers. Identified forced browsing vulnerability through log analysis, coordinated customer notification, assessed $100K financial impact, and provided remediation recommendations including access controls and vulnerability management.
 
 **Key Concepts:** Forced Browsing Attack, IDOR Vulnerability, OWASP Top 10, Incident Response Lifecycle, Log Forensics
-```
-```
+
 ---
 
 ## Skills Demonstrated Across Projects
