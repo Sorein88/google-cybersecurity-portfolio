@@ -40,6 +40,12 @@ Led complete incident response for data breach affecting 50,000 customers. Ident
 
 **Key Concepts:** Forced Browsing Attack, IDOR Vulnerability, OWASP Top 10, Incident Response Lifecycle, Log Forensics
 
+### 5. [Botium Toys Comprehensive Security Audit](./botium-toys-security-audit/)
+**Skills:** Security Auditing | Compliance Assessment | Risk Analysis | Executive Reporting | Remediation Planning
+
+Conducted full security audit identifying critical vulnerabilities across administrative, technical, and physical controls. Assessed PCI DSS, GDPR, and SOC compliance. Delivered executive report with prioritized remediation roadmap, cost-benefit analysis, and 12-week implementation timeline. Risk Score: 8/10.
+
+**Key Concepts:** Security Controls Assessment, PCI DSS, GDPR, SOC Compliance, Risk Prioritization, Cost-Benefit Analysis
 ---
 
 ## Skills Demonstrated Across Projects
