@@ -52,37 +52,37 @@ This audit revealed significant security gaps creating substantial risk exposure
 
 ### Immediate Risk (Critical Priority)
 
-**1. No Encryption for Payment Card Data** 🔴
+**1. No Encryption for Payment Card Data** 
 - **Impact:** PCI DSS violation, potential data breach
 - **Risk:** Credit card information transmitted and stored in plaintext
 - **Potential Cost of Breach:** $50,000-$500,000+ in fines plus reputational damage
 - **Remediation Cost:** $15,000-$30,000
 
-**2. Lack of Access Controls** 🔴
+**2. Lack of Access Controls** 
 - **Impact:** All employees can access ALL data including PII/SPII and payment information
 - **Risk:** Insider threats, compromised accounts with excessive privileges
 - **Violation:** Fundamental security principle of least privilege
 - **Remediation Cost:** $10,000-$20,000
 
-**3. No Backup or Disaster Recovery** 🔴
+**3. No Backup or Disaster Recovery** 
 - **Impact:** Single point of failure, no business continuity plan
 - **Risk:** Complete data loss from ransomware, hardware failure, natural disasters
 - **Potential Impact:** Business closure
 - **Remediation Cost:** $20,000-$40,000 (annual)
 
-**4. Missing Intrusion Detection System** 🔴
+**4. Missing Intrusion Detection System** 
 - **Impact:** Network intrusions go undetected
 - **Risk:** Prolonged breach exposure, attackers operating undetected
 - **Remediation Cost:** $25,000-$50,000
 
 ### High-Priority Vulnerabilities
 
-**5. Inadequate Password Policy** 🟠
+**5. Inadequate Password Policy** 
 - Current policy below minimum complexity standards
 - No centralized password management
 - Vulnerability to brute force attacks
 
-**6. Inconsistent Legacy System Monitoring** 🟡
+**6. Inconsistent Legacy System Monitoring** 
 - Unpatched vulnerabilities in legacy systems
 - No regular maintenance schedule
 
