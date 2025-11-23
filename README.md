@@ -26,6 +26,14 @@ Investigated unauthorized access by a former contractor whose account remained a
 
 **Key Concepts:** User Deprovisioning, Principle of Least Privilege, Insider Threat Detection, MFA
 
+### 3. [Phishing Alert Investigation & Escalation](./phishing-alert-investigation/)
+**Skills:** Alert Triage | Phishing Analysis | Threat Intelligence | Escalation Decision-Making
+
+Investigated medium-severity phishing alert, identified multiple indicators of compromise, confirmed malware execution through threat intelligence analysis, and escalated to L2 SOC analyst. Demonstrated systematic investigation and appropriate severity reassessment.
+
+**Key Concepts:** Alert Triage, Phishing Indicators, File Hash Analysis, Incident Escalation, SIEM
+```
+```
 ---
 
 ## Skills Demonstrated Across Projects
