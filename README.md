@@ -68,7 +68,7 @@ Conducted full security audit identifying critical vulnerabilities across admini
 - **Security Principles:** Principle of Least Privilege, access controls, threat modeling
 
 ## Contact
-- **LinkedIn:** [Add your LinkedIn URL here]
+- **LinkedIn:** www.linkedin.com/in/sandra-weiss-cy
 - **Email:** weiss_sandra@mein.gmx
 - **GitHub:** https://github.com/Sorein88
 
