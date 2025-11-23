@@ -7,6 +7,8 @@ This repository showcases projects and assignments completed during the Google C
 ## Certifications
 - **Google Cybersecurity Professional Certificate** (Completed: November 2025)
   - 8 courses covering: Security fundamentals, Risk management, Network security, Linux & SQL, Assets & vulnerabilities, Detection & response, Python automation, Career preparation
+- **TryHackMe Cyber Security 101 Learning Path** (Completed: November 2025)
+- **CompTIA Security+** (In Progress - Expected December 2025)
 
 ## Projects
 
@@ -23,8 +25,8 @@ Analyzed a data breach scenario involving accidental exposure of confidential co
 Investigated unauthorized access by a former contractor whose account remained active 4 years post-contract. Identified critical deprovisioning failures and provided security recommendations including automated expiration policies and MFA implementation.
 
 **Key Concepts:** User Deprovisioning, Principle of Least Privilege, Insider Threat Detection, MFA
-```
 
+---
 
 ## Skills Demonstrated Across Projects
 - Security Frameworks (NIST CSF, NIST SP 800-53)
@@ -33,15 +35,27 @@ Investigated unauthorized access by a former contractor whose account remained a
 - Risk Assessment and Mitigation
 - Security Policy Documentation
 - Technical Writing
+- User Lifecycle Management
+- Authentication and Authorization
+
+## Technical Skills
+- **Security Operations:** SIEM tools (Splunk, Wazuh), IDS (Snort, Suricata), network monitoring
+- **Network Analysis:** Wireshark, tcpdump, packet analysis
+- **Frameworks:** NIST Cybersecurity Framework, NIST SP 800-53
+- **Incident Response:** Detection, analysis, containment, documentation
+- **Programming:** Python (beginner), Linux, SQL
+- **Security Principles:** Principle of Least Privilege, access controls, threat modeling
 
 ## Contact
-- **LinkedIn:** [www.linkedin.com/in/sandra-weiss-cy]
+- **LinkedIn:** [Add your LinkedIn URL here]
 - **Email:** weiss_sandra@mein.gmx
+- **GitHub:** https://github.com/Sorein88
 
 ## Currently Learning
 - CompTIA Security+ (in progress)
 - TryHackMe SOC Level 1 Path
 - Advanced threat detection and response
+- Masterschool Cybersecurity Training Program (June 2025 - July 2026)
 
 ---
 
