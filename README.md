@@ -32,6 +32,13 @@ Investigated unauthorized access by a former contractor whose account remained a
 Investigated medium-severity phishing alert, identified multiple indicators of compromise, confirmed malware execution through threat intelligence analysis, and escalated to L2 SOC analyst. Demonstrated systematic investigation and appropriate severity reassessment.
 
 **Key Concepts:** Alert Triage, Phishing Indicators, File Hash Analysis, Incident Escalation, SIEM
+
+### 4. [E-Commerce Data Breach Investigation & Final Report](./ecommerce-data-breach-final-report/)
+**Skills:** Incident Response | Web Application Security | Log Analysis | Root Cause Analysis | Executive Reporting
+
+Led complete incident response for data breach affecting 50,000 customers. Identified forced browsing vulnerability through log analysis, coordinated customer notification, assessed $100K financial impact, and provided remediation recommendations including access controls and vulnerability management.
+
+**Key Concepts:** Forced Browsing Attack, IDOR Vulnerability, OWASP Top 10, Incident Response Lifecycle, Log Forensics
 ```
 ```
 ---
