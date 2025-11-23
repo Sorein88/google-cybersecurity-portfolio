@@ -17,7 +17,14 @@ Analyzed a data breach scenario involving accidental exposure of confidential co
 
 **Key Concepts:** Least Privilege, Role-Based Access Control, Incident Response
 
----
+### 2. [Ex-Employee Access Breach Investigation](./ex-employee-access-breach-investigation/)
+**Skills:** Incident Investigation | Access Controls | User Lifecycle Management | Risk Assessment
+
+Investigated unauthorized access by a former contractor whose account remained active 4 years post-contract. Identified critical deprovisioning failures and provided security recommendations including automated expiration policies and MFA implementation.
+
+**Key Concepts:** User Deprovisioning, Principle of Least Privilege, Insider Threat Detection, MFA
+```
+
 
 ## Skills Demonstrated Across Projects
 - Security Frameworks (NIST CSF, NIST SP 800-53)
