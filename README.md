@@ -8,7 +8,8 @@ This repository showcases projects and assignments completed during the Google C
 - **Google Cybersecurity Professional Certificate** (Completed: November 2025)
   - 8 courses covering: Security fundamentals, Risk management, Network security, Linux & SQL, Assets & vulnerabilities, Detection & response, Python automation, Career preparation
 - **TryHackMe Cyber Security 101 Learning Path** (Completed: November 2025)
-- **CompTIA Security+** (In Progress - Expected December 2025)
+- **CompTIA Security+** (Completed: December 2025)
+- **TryHackMe SOC lvl 1** (Completed: December 2025)
 
 ## Projects
 
