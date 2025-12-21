@@ -2,6 +2,9 @@
 
 This directory showcases my practical work at the intersection of **Artificial Intelligence** and **Digital Defense**. I focus on using Machine Learning to scale threat detection and automate security audits.
 
+### **🔍 My Approach to AI in Security**
+*While these projects involve significant coding and model building, my primary focus is not AI Engineering. Instead, I use these projects to gain a **deep, structural understanding of AI mechanics**. As a Security Professional, I believe you cannot defend what you don't understand. My goal is to leverage this technical knowledge for **better threat detection, risk assessment, and smarter SOC operations**.*
+
 ---
 
 ## **📂 Featured AI Projects**
