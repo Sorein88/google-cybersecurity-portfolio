@@ -1,9 +1,9 @@
 # Hi, I'm Sandra 👋 
 ### Cyber Security Associate | SOC & Incident Response
 
-I’m a security professional who believes that safety is a mindset, not just a job title. [cite_start]After serving in the **riot police** [cite: 17, 89] [cite_start]and leading teams for over **10 years**[cite: 7, 47], I decided to translate my passion for protection into the digital world. 
+I’m a security professional who believes that safety is a mindset, not just a job title. After serving in the **riot police** and leading teams for over **10 years**, I decided to translate my passion for protection into the digital world. 
 
-[cite_start]While I’ve built a strong technical foundation with certifications like **CompTIA Security+**, **IBM**, and **SOC Level 1** [cite: 6, 56, 57, 72][cite_start], I bring something to the table that can’t be taught in a course: absolute calm under pressure and a sharp instinct for detecting anomalies[cite: 79].
+While I’ve built a strong technical foundation with certifications like **CompTIA Security+**, **IBM**, and **SOC Level 1**, I bring something to the table that can’t be taught in a course: absolute calm under pressure and a sharp instinct for detecting anomalies.
 
 ---
 
