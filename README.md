@@ -29,16 +29,16 @@ I document my work through detailed reports and technical implementations to sho
 
 ### 🛡️ Security Analysis & Governance
 *Focus on Incident Response, Auditing, and Compliance.*
-* **[Incident Handler's Journal](./Reports/Incident-handler-journal/)** - 3-year log of security incidents and lessons learned.
+* **[Incident Handler's Journal](./Reports/Incident-handlers-journal/)** - 3-year log of security incidents and lessons learned.
 * **[Botium Toys Security Audit](./Reports/botium-toys-security-audit/)** - Full risk assessment (GDPR, PCI DSS, SOC).
 
 ### 🤖 Security Engineering & AI
 *Focus on Machine Learning, Python Automation, and Proactive Detection.*
-* **[Sentinel-Grid (AI Detection)](./AI-Projects/Sentinel-Grid/)** - AI-driven threat detection for critical infrastructure (KRITIS).
-* **[Phishing URL Detector](./AI-Projects/AI-Phishing-URL-Detector/)** - Machine Learning classifier for real-time URL risk assessment.
-* **[PW AI Auditor](./AI-Projects/AI-Password-Auditor/)** - Adversarial simulation of AI-based password guessing.
+* **[Sentinel-Grid (AI Detection)](./AI-Projects/sentinel-grid/)** - AI-driven threat detection for critical infrastructure (KRITIS).
+* **[Phishing URL Detector](./AI-Projects/URL-Detector/)** - Machine Learning classifier for real-time URL risk assessment.
+* **[PW AI Auditor](./AI-Projects/PW-AI-Auditor/)** - Adversarial simulation of AI-based password guessing.
 
-👉 **[Explore all Projects & Reports here](./Reports/)**
+👉 **[Explore all Projects & Reports here](https://github.com/Sorein88/google-cybersecurity-portfolio)**
 
 ---
 
