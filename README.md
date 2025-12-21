@@ -8,16 +8,16 @@ I’m a security professional who believes that safety is a mindset, not just a 
 ---
 
 ## 🎓 Certifications
-* [cite_start]**CompTIA Security+** [cite: 6, 56]
-* [cite_start]**IBM Cybersecurity Professional** [cite: 57, 128]
-* [cite_start]**TryHackMe SOC Level 1** [cite: 72, 145]
-* [cite_start]**Google Cybersecurity Professional** [cite: 61, 134]
+* **CompTIA Security+**
+* **IBM Cybersecurity Professional**
+* **TryHackMe SOC Level 1**
+* **Google Cybersecurity Professional**
 
 ## 🛠️ Technical Toolkit
-* [cite_start]**Monitoring & SIEM:** Microsoft Sentinel, Splunk, Log Analysis [cite: 13, 28, 86]
-* [cite_start]**Investigation:** Incident Response, Threat Hunting, Root Cause Analysis [cite: 12, 15, 85]
-* [cite_start]**Tools:** Wireshark, Nmap, Snort, KQL (Kusto Query Language) [cite: 15, 87]
-* [cite_start]**Infrastructure:** Microsoft 365, Entra ID (Azure AD), Linux, Windows [cite: 30, 119]
+* **Monitoring & SIEM:** Microsoft Sentinel, Splunk, Log Analysis
+* **Investigation:** Incident Response, Threat Hunting, Root Cause Analysis
+* **Tools:** Wireshark, Nmap, Snort, KQL (Kusto Query Language)
+* **Infrastructure:** Microsoft 365, Entra ID (Azure AD), Linux, Windows
 
 ---
 
