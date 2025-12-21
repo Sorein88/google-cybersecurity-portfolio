@@ -16,7 +16,7 @@ This directory showcases my practical work at the intersection of **Artificial I
 * **Core:** **Random Forest Classifier** trained on 11,000+ URLs with **96.83% accuracy**.
 * **Highlight:** Features a functional **Streamlit App** for real-time risk assessment of suspicious links.
 
-### **3. [PW AI Auditor](./PW AI Auditor/)**
+### **3. [PW AI Auditor](./PW-AI-Auditor/)**
 * **Focus:** Adversarial Simulation & Python Automation.
 * **Core:** Hybrid analysis of password entropy combined with **AI-driven guessability** patterns.
 * **Highlight:** Identifies passwords that are mathematically complex but vulnerable to smart dictionary attacks.
