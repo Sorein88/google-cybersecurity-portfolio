@@ -6,7 +6,7 @@ This directory showcases my practical work at the intersection of **Artificial I
 
 ## **📂 Featured AI Projects**
 
-### **1. [Project Sentinel-Grid](./Sentinel-Grid/)**
+### **1. [Project Sentinel-Grid](./Sentinel-grid/)**
 * **Focus:** KRITIS Protection & ICS Security.
 * **Core:** Unsupervised ML (**Isolation Forest**) to detect anomalies in industrial turbines.
 * **Highlight:** Successfully detected **Replay Attacks** and **MITM Bias Injections** by establishing a behavioral baseline.
