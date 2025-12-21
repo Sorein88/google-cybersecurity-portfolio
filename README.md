@@ -25,7 +25,7 @@ I’m a security professional who believes that safety is a mindset, not just a 
 I document my technical investigations to show my systematic approach to defense.
 👉 **[Explore my full Portfolio here](./Reports/)**
 
-* [cite_start]**[Incident Handler's Journal (2022-2025)](./Reports/Incident-handler-journal/):** Tracking my evolution from reactive to proactive defense[cite: 16, 88].
+* [cite_start]**[Incident Handlers Journal (2022-2025)](./Reports/Incident-handlers-journal/):** Tracking my evolution from reactive to proactive defense[cite: 16, 88].
 * [cite_start]**[Botium Toys Security Audit](./Reports/botium-toys-security-audit/):** A deep dive into risk assessment and compliance[cite: 15, 87].
 
 ---
