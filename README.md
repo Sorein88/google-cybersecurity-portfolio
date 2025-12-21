@@ -23,6 +23,8 @@ I’m a security professional who believes that safety is a mindset, not just a 
 
 ---
 
+---
+
 ## 📁 Security Portfolio
 
 I document my work through detailed reports and technical implementations to show my systematic approach to defense.
@@ -37,6 +39,7 @@ I document my work through detailed reports and technical implementations to sho
 * **[Sentinel-Grid (AI Detection)](./AI-Projects/sentinel-grid/)** - AI-driven threat detection for critical infrastructure (KRITIS).
 * **[Phishing URL Detector](./AI-Projects/URL-Detector/)** - Machine Learning classifier for real-time URL risk assessment.
 * **[PW AI Auditor](./AI-Projects/PW-AI-Auditor/)** - Adversarial simulation of AI-based password guessing.
+
 
 👉 **[Explore all Projects & Reports here](https://github.com/Sorein88/google-cybersecurity-portfolio)**
 
