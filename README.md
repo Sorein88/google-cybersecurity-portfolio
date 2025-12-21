@@ -1,4 +1,4 @@
-![Header Banner](./Assets/banner.png)
+![Header Banner](./Assets/Banner.png)
 # Hi, I'm Sandra 👋 
 ### Cyber Security Associate | SOC & Incident Response
 
