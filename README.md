@@ -49,8 +49,8 @@ I document my work through detailed reports and technical implementations to sho
 
 ## 🌐 Community & Events
 I love being part of the global security community and staying ahead of the threat landscape:
-* [cite_start]**Black Hat USA** (Las Vegas): Regular Attendee (2021, 2023, 2024, 2025) [cite: 60, 62, 132]
-* [cite_start]**DEF CON** (Las Vegas): Regular Attendee (2021, 2023, 2024, 2025) [cite: 63, 65, 136]
+* **Black Hat USA** (Las Vegas): Regular Attendee (2021, 2023, 2024, 2025)
+* **DEF CON** (Las Vegas): Regular Attendee (2021, 2023, 2024, 2025)
 
 ---
 
