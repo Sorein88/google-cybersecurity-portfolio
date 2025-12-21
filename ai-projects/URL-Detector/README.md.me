@@ -1,28 +1,47 @@
-# AI-Powered Phishing URL Detection
+# **🕵️ Project: AI-Powered Phishing URL Detection System**
 
-## Overview
-Machine learning system to detect phishing URLs with 96.83% accuracy using Random Forest classification and feature engineering.
+**Focus:** Machine Learning Classifier & Predictive Security  
+**Author:** **Sandra Weiß** | **Accuracy:** **96.83%** | **Date:** **December 2025**
 
-## Key Features
-- 32-feature URL analysis
-- 96.83% detection accuracy
-- Red team tested against sophisticated attacks
-- Interactive testing interface
-- Production-ready model serialization
+---
 
-## Technical Stack
-- Python, Pandas, Scikit-Learn
-- Random Forest Classifier (100 estimators)
-- Feature importance analysis
-- Adversarial testing framework
+## **📝 Project Overview**
+This project focuses on the development of a high-performance **Machine Learning classifier** designed to identify malicious URLs. By analyzing **32 distinct security features** from a dataset of over **11,000 URLs**, the system differentiates between legitimate websites and phishing attempts with exceptional precision.
 
-## Results
-- **Accuracy:** 96.83%
-- **Red Team Test:** Successfully detected SSL-camouflaged phishing (73% confidence)
-- **Dataset:** 11,000+ URLs with 32 security features
+---
 
-## Use Cases
-- Email security gateways
-- Browser extensions
-- SOC automation
-- Threat intelligence feeds
+## **🚀 Key Development Phases**
+
+### **Phase 1: Feature Engineering & EDA**
+I developed a custom extraction engine to analyze URL characteristics, focusing on:
+* **Structural Features:** URL length, number of dots, and presence of special characters (e.g., `@`, `-`).
+* **Security Indicators:** Protocol analysis (HTTP vs. HTTPS) and the detection of IP-based URLs.
+* **Result:** A robust feature set that serves as the foundation for the AI's decision-making process.
+
+### **Phase 2: Model Training & Evaluation**
+I tested and compared several **Machine Learning architectures** to identify the most effective solution:
+* **Random Forest:** **96.83% Accuracy** (Top Performer)
+* **Neural Networks (MLP):** 96.56%
+* **SVM:** 95.61%
+* **Result:** Selected **Random Forest** for its superior accuracy and reliability in detecting complex phishing patterns.
+
+### **Phase 3: Deployment & Productization**
+To make the tool functional for end-users, I built a web application using **Streamlit**:
+* **Interactive Interface:** Users can input a URL and receive an instant risk assessment (**Legitimate vs. Phishing**).
+* **Model Export:** The trained model was serialized using **Joblib** for seamless integration into production environments.
+
+---
+
+## **🛠️ Technical Toolkit**
+* **Language:** **Python**
+* **Machine Learning:** **Scikit-learn** (Random Forest, SVM, MLP)
+* **Data Science:** **Pandas**, **NumPy**, **Joblib**
+* **Frontend/Deployment:** **Streamlit**, **Localtunnel**
+
+---
+
+## **💡 Why this matters for SOC Teams**
+This project demonstrates my ability to:
+* Build **automated detection tools** to reduce manual triage time in the SOC.
+* Perform advanced **Feature Engineering** specifically for cyber security use cases.
+* Deploy **AI-driven solutions** that provide immediate, actionable value in threat defense.
