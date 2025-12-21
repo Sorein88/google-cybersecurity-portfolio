@@ -36,9 +36,9 @@ I document my work through detailed reports and technical implementations to sho
 
 ### 🤖 Security Engineering & AI
 *Focus on Machine Learning, Python Automation, and Proactive Detection.*
-* **[Sentinel-Grid (AI Detection)](./ai-projects/sentinel-grid/)** - AI-driven threat detection for critical infrastructure (KRITIS).
-* **[Phishing URL Detector](./ai-projects/URL-Detector/)** - Machine Learning classifier for real-time URL risk assessment.
-* **[PW AI Auditor](./ai-projects/PW-AI-Auditor/)** - Adversarial simulation of AI-based password guessing.
+* **[Sentinel-Grid (AI Detection)](./AI-projects/Sentinel-Grid/)** - AI-driven threat detection for critical infrastructure (KRITIS).
+* **[Phishing URL Detector](./AI-projects/URL-Detector/)** - Machine Learning classifier for real-time URL risk assessment.
+* **[PW AI Auditor](./AI-projects/PW-AI-Auditor/)** - Adversarial simulation of AI-based password guessing.
 
 
 👉 **[Explore all Projects & Reports here](https://github.com/Sorein88/google-cybersecurity-portfolio)**
