@@ -21,10 +21,6 @@ While I’ve built a strong technical foundation with certifications like **Comp
 
 ---
 
----
-
----
-
 ## 📁 Security Portfolio
 
 I document my work through detailed reports and technical implementations to show my systematic approach to defense.
@@ -42,8 +38,6 @@ I document my work through detailed reports and technical implementations to sho
 
 
 👉 **[Explore all Projects & Reports here](https://github.com/Sorein88/google-cybersecurity-portfolio)**
-
----
 
 ---
 
