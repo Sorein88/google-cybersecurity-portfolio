@@ -32,7 +32,7 @@ I am a regular attendee of global security conferences to stay ahead of the thre
 ---
 
 ### 📫 Connect with me:
-**LinkedIn:** https://www.linkedin.com/in/sandra-weiss-cy
-**Email:** weiss_sandra@mein.gmx
-**GitHub:** https://github.com/Sorein88
-**Credly** https://www.credly.com/users/sandra-weiss.de145bb3
+* **LinkedIn:** https://www.linkedin.com/in/sandra-weiss-cy
+* **Email:** weiss_sandra@mein.gmx
+* **GitHub:** https://github.com/Sorein88
+* **Credly** https://www.credly.com/users/sandra-weiss.de145bb3
