@@ -10,7 +10,7 @@ While I’ve built a strong technical foundation with certifications like **Comp
 
 ## 🎓 Certifications
 * **CompTIA Security+**
-* **IBM Cybersecurity Professional**
+* **IBM Cybersecurity Analyst**
 * **TryHackMe SOC Level 1**
 * **Google Cybersecurity Professional**
 
