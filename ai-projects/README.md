@@ -11,7 +11,7 @@ This directory showcases my practical work at the intersection of **Artificial I
 * **Core:** Unsupervised ML (**Isolation Forest**) to detect anomalies in industrial turbines.
 * **Highlight:** Successfully detected **Replay Attacks** and **MITM Bias Injections** by establishing a behavioral baseline.
 
-### **2. [AI-Powered Phishing URL Detector](./AI-Phishing-URL-Detector/)**
+### **2. [AI-Powered Phishing URL Detector](./URL-Detector/)**
 * **Focus:** Automated Threat Triage.
 * **Core:** **Random Forest Classifier** trained on 11,000+ URLs with **96.83% accuracy**.
 * **Highlight:** Features a functional **Streamlit App** for real-time risk assessment of suspicious links.
