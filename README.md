@@ -21,12 +21,26 @@ I’m a security professional who believes that safety is a mindset, not just a 
 
 ---
 
-## 📁 Security Portfolio (Reports)
-I document my technical investigations to show my systematic approach to defense.
-👉 **[Explore my full Portfolio here](./Reports/)**
+---
 
-* [cite_start]**[Incident Handlers Journal (2022-2025)](./Reports/Incident-handlers-journal/):** Tracking my evolution from reactive to proactive defense[cite: 16, 88].
-* [cite_start]**[Botium Toys Security Audit](./Reports/botium-toys-security-audit/):** A deep dive into risk assessment and compliance[cite: 15, 87].
+## 📁 Security Portfolio
+
+I document my work through detailed reports and technical implementations to show my systematic approach to defense.
+
+### 🛡️ Security Analysis & Governance
+*Focus on Incident Response, Auditing, and Compliance.*
+* **[Incident Handler's Journal](./Reports/Incident-handler-journal/)** - 3-year log of security incidents and lessons learned.
+* **[Botium Toys Security Audit](./Reports/botium-toys-security-audit/)** - Full risk assessment (GDPR, PCI DSS, SOC).
+
+### 🤖 Security Engineering & AI
+*Focus on Machine Learning, Python Automation, and Proactive Detection.*
+* **[Sentinel-Grid (AI Detection)](./AI-Projects/Sentinel-Grid/)** - AI-driven threat detection for critical infrastructure (KRITIS).
+* **[Phishing URL Detector](./AI-Projects/AI-Phishing-URL-Detector/)** - Machine Learning classifier for real-time URL risk assessment.
+* **[PW AI Auditor](./AI-Projects/AI-Password-Auditor/)** - Adversarial simulation of AI-based password guessing.
+
+👉 **[Explore all Projects & Reports here](./Reports/)**
+
+---
 
 ---
 
